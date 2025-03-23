@@ -1,0 +1,5 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+J1,JST_XH_S4B-XH-A_1x04_P2.50mm_Horizontal,1,Conn_01x04,
+J2,JST_XH_S5B-XH-A_1x05_P2.50mm_Horizontal,1,Conn_01x05,
+R1,0805,1,120,C17437
+U1,SOIC-8_3.9x4.9mm_P1.27mm,1,SP3485EN,C8963
