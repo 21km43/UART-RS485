@@ -1840,7 +1840,7 @@
 		(layer "Edge.Cuts")
 		(uuid "268c2937-84e7-4e59-b8e2-d9ce20949f7f")
 	)
-	(gr_text "T"
+	(gr_text "T↓"
 		(at 140.335 99.695 180)
 		(layer "F.SilkS")
 		(uuid "0962f91b-1d1f-4cec-9e68-d54d76591a85")
@@ -1931,7 +1931,7 @@
 			(justify bottom)
 		)
 	)
-	(gr_text "R"
+	(gr_text "R↑"
 		(at 137.795 99.695 180)
 		(layer "F.SilkS")
 		(uuid "efdcd6e9-0fdc-465c-83ec-2e4078b33f4f")
